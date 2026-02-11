@@ -1,15 +1,25 @@
-## Projeto Power BI: Base de Vendas
+# Portfólio de Análise de Dados
 
-Este projeto contém um relatório desenvolvido no Power BI para análise de vendas.
+Repositório com projetos de **análise de dados**, desenvolvidos em Python (Google Colab), Aprendizagem de Máquina e Power BI. Inclui estudos de ações, previsões e estatísticas.
 
-- Arquivo principal: `BaseVendas.pbit`
-- Principais análises:
-  - Vendas por região e produto
-  - Evolução mensal
-  - Comparação de desempenho entre categorias
+## Projetos publicados
 
-### Visualizações
-Para abrir o relatório completo, baixe o arquivo `.pbit` e abra no **Power BI Desktop**.
+- **BigData_Ações.ipynb**  
+  Análise de ações utilizando técnicas de estatística e visualização de dados.
+
+- **Trabalho Aprendizagem de Máquina I.ipynb**  
+  Modelos iniciais de machine learning aplicados a conjuntos de dados para previsão e classificação.
+
+- **Power BI – Relatório de Vendas**  
+  Dashboard interativo desenvolvido no Power BI para análise de vendas por região e produto.  
+  *(Arquivo `.pbix`)*
+
+## Objetivo
+Este repositório funciona como portfólio de estudos e práticas em ciência de dados, reunindo diferentes ferramentas e técnicas para resolver problemas reais.
+
+---
+✨ Explore os notebooks e dashboards para conhecer os projetos!
+
 
 ✨ Sinta-se à vontade para explorar os notebooks e dashboards!
 
