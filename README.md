@@ -21,5 +21,3 @@ Este repositório funciona como portfólio de estudos e práticas em ciência de
 ✨ Explore os notebooks e dashboards para conhecer os projetos!
 
 
-✨ Sinta-se à vontade para explorar os notebooks e dashboards!
-
